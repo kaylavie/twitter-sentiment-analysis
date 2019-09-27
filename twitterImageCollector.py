@@ -1,5 +1,5 @@
 '''
-Extracting Images from the Twitter Streaming API
+Downloading Images from the Twitter Streaming API
 Based on the tutorials from: https://pythonprogramming.net/data-analysis-tutorials/
 '''
 
